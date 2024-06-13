@@ -2,7 +2,6 @@
 
 require 'pry-byebug'
 require 'rainbow'
-require_relative 'story'
 
 # The stories
 class MadLib
